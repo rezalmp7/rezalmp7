@@ -16,6 +16,7 @@
 
 ## Statistic Profile
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezalmp7&show_icons=true&hide=prs&count_private=true)
+(https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32951)
 
 ## Github Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rezalmp7)
