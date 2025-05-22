@@ -14,9 +14,12 @@
 - ![Front-end](https://img.shields.io/badge/Front--end-Development-4CAF50?logo=html5&logoColor=white) Front-end Development
 - ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white) Three.js
 
+## History
+
+- ![Time](https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32951) Code Time
+
 ## Statistic Profile
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezalmp7&show_icons=true&hide=prs&count_private=true)
-![Time](https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32951)
 
 ## Github Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rezalmp7)
