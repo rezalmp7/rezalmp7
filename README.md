@@ -25,4 +25,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rezalmp7)
 
 ## Language Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezalmp7&count_private=true&layout=compact&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezalmp7&layout=compact&langs_count=5&theme=radical)
