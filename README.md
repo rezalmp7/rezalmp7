@@ -22,9 +22,3 @@
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=bbbbbb&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32951)](https://codetime.dev) <br>
 [![CodeTime Languages](https://codetime.dev/api/widgets/donut.svg?uid=32951&days=30&limit=5&theme=light)](https://codetime.dev)<br>
 [![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=32951&days=90&theme=light)](https://codetime.dev)<br>
-
-## Statistic Profile
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezalmp7&show_icons=true&hide=prs&count_private=true)
-
-## Language Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezalmp7&layout=compact&langs_count=5&theme=radical)
