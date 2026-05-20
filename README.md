@@ -19,9 +19,9 @@
 
 ## History
 Turning Caffeine into Code since May 2025
-- [![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=32951&days=90&theme=light)](https://codetime.dev)
-- [![CodeTime Languages](https://codetime.dev/api/widgets/donut.svg?uid=32951&days=30&limit=5&theme=dark)](https://codetime.dev)
 - ![Time](https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32951) 
+- [![CodeTime Languages](https://codetime.dev/api/widgets/donut.svg?uid=32951&days=30&limit=5&theme=dark)](https://codetime.dev)
+- [![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=32951&days=90&theme=light)](https://codetime.dev)
 
 ## Statistic Profile
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezalmp7&show_icons=true&hide=prs&count_private=true)
