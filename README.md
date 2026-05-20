@@ -1,5 +1,8 @@
 # Hi there, I'm Rezal Wahyu Pratama 👋
 
+## Status
+[![CodeTime Status](https://codetime.dev/api/widgets/status.svg?uid=32951&theme=dark&style=minimal)](https://codetime.dev)
+
 ## About Me
 - 🔭 I’m currently working on [SPEC Toolbox](https://spectoolbox.com/)  
 - 🌍 I'm based in **Semarang**, Indonesia (UTC +07:00)
@@ -15,8 +18,10 @@
 - ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white) Three.js
 
 ## History
-
-- ![Time](https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32951) Turning Caffeine into Code since May 2025
+Turning Caffeine into Code since May 2025
+- [![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=32951&days=90&theme=light)](https://codetime.dev)
+- [![CodeTime Languages](https://codetime.dev/api/widgets/donut.svg?uid=32951&days=30&limit=5&theme=dark)](https://codetime.dev)
+- ![Time](https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32951) 
 
 ## Statistic Profile
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezalmp7&show_icons=true&hide=prs&count_private=true)
